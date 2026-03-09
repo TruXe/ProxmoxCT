@@ -4,7 +4,7 @@
 # Copyright (c) 2021-2026 tteck
 # Author: tteck (tteckster)
 # License: MIT
-
+source <(curl -s https://raw.githubusercontent.com/TruXe/ProxmoxCT/refs/heads/main/build.func)
 set -e
 
 function header_info {
