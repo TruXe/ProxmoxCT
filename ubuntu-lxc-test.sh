@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
 
 # Proxmox VE 9.1.1 Compatible Version
-
-source <(curl -fsSL https://raw.githubusercontent.com/tteck/ProxmoxVE/main/misc/build.func)
-
 # Copyright (c) 2021-2026 tteck
 # Author: tteck (tteckster)
 # License: MIT
